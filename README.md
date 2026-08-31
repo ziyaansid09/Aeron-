@@ -1,2 +1,1 @@
-# Aeron-
-It is a AERON Cross Hospital Emergency Coordination
+AERON Cross Hospital Emergency Coordination
